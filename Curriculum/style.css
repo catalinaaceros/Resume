@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(239, 183, 127);
+    color: black;
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+
+h3{
+    font-size: 40px;
+}
+
+h1,h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+}
+
